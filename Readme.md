@@ -45,3 +45,16 @@ We really appreciate all authors for making their codes available to public.
 - The testing dataset is sourced and preprocessed from [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) and [CFVQA](https://github.com/Yixuan423/Compressed-Face-Videos-Quality-Assessment).
 - The quality assessment metrics include [DISTS](https://github.com/dingkeyan93/DISTS) and [LPIPS](https://github.com/richzhang/PerceptualSimilarity).
 
+# BibTeX
+```
+@inproceedings{Chen_JVET_AG0042,
+            title={AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression},
+            author={Bolin, Chen and Jie, Chen and Ru-Ling, Liao and Yan, Ye and Shiqi, Wang},
+            journal={he Joint Video Experts Team of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29, doc. no. JVET-AG0042},
+            year={2024}
+          }
+```
+
+### :e-mail: Contact
+
+If you have any question or collaboration need (research purpose or commercial purpose), please email `bolinchen3-c@my.cityu.edu.hk` or `chenbolin.chenboli@alibaba-inc.com`.
