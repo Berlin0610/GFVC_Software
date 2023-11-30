@@ -50,7 +50,7 @@ We really appreciate all authors for making their codes available to public.
 @inproceedings{Chen_JVET_AG0042,
             title={AHG 16: Proposed Common Software Tools and Testing Conditions for Generative Face Video Compression},
             author={Bolin, Chen and Jie, Chen and Ru-Ling, Liao and Yan, Ye and Shiqi, Wang},
-            journal={he Joint Video Experts Team of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29, doc. no. JVET-AG0042},
+            journal={The Joint Video Experts Team of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29, doc. no. JVET-AG0042},
             year={2024}
           }
 ```
